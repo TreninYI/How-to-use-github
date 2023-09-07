@@ -68,17 +68,32 @@ ___Какой-то текст___
 
 
 
+```bash
+#!/bin/bash
+
+echo $11
+```
+
+```
+#!/bin/bash
+
+echo $11
+```
 
 
+```python
+import sys 
+ 
+arg = sys.argv[-1] 
+print(arg + '1') 
+```
 
-
-
-
-
-
-
-
-
+```
+import sys 
+ 
+arg = sys.argv[-1] 
+print(arg + '1') 
+```
 
 
 
